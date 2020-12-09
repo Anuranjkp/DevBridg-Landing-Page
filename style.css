@@ -33,7 +33,9 @@ body {
 /*Button Style Starting Here*/
 #button1 {
     max-width: 100%;
-    height: auto;
+    width: 13rem;
+    max-height: 100%;
+    height: 3rem;
     font-weight: 900;
     background: transparent;
     border: 2px solid hsl(321, 85%, 68%);
