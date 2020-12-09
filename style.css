@@ -190,7 +190,7 @@ ul, ol {
     transition: .22s ease;
 }
 #footer-border {
-   border: .3vh solid black;
+   border: .3vh solid #000;
 }
 /* Footer Style Ending Here*/
 
