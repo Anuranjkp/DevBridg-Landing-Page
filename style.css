@@ -189,5 +189,8 @@ ul, ol {
     visibility: hidden;
     transition: .22s ease;
 }
+#footer-border {
+   border: .3vh solid black;
+}
 /* Footer Style Ending Here*/
 
